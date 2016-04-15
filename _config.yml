@@ -1,0 +1,28 @@
+name: Korve
+favicon: null
+layout_spectrum: 0.05995795130729675
+typography_spectrum: 0.9307819216046482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8153428963851184
+  lightness: 0.8026407158467919
+  saturation: 0.5992850291077048
+  rhythmicContrast: 0.12529195891693234
+purpose: []
